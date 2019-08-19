@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wryyyyyyyy</title>
+  
+  <subtitle>蝙蝠蝙蝠蝙蝠蝙蝠蝙蝠</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-08-19T15:50:00.502Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Batman</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>寄宿之恋</title>
+    <link href="http://yoursite.com/2019/08/19/%E5%AF%84%E5%AE%BF%E4%B9%8B%E6%81%8B/"/>
+    <id>http://yoursite.com/2019/08/19/寄宿之恋/</id>
+    <published>2019-08-18T17:56:43.000Z</published>
+    <updated>2019-08-19T15:50:00.502Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;蝙蝠蝙蝠蝙蝠蝙蝠&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="galgame" scheme="http://yoursite.com/categories/galgame/"/>
+    
+      <category term="欢乐向" scheme="http://yoursite.com/categories/galgame/%E6%AC%A2%E4%B9%90%E5%90%91/"/>
+    
+    
+      <category term="galgame" scheme="http://yoursite.com/tags/galgame/"/>
+    
+      <category term="ASa Project" scheme="http://yoursite.com/tags/ASa-Project/"/>
+    
+      <category term="颜艺社" scheme="http://yoursite.com/tags/%E9%A2%9C%E8%89%BA%E7%A4%BE/"/>
+    
+      <category term="欢乐向" scheme="http://yoursite.com/tags/%E6%AC%A2%E4%B9%90%E5%90%91/"/>
+    
+      <category term="蝙蝠" scheme="http://yoursite.com/tags/%E8%9D%99%E8%9D%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章hello world</title>
+    <link href="http://yoursite.com/2019/08/19/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
+    <id>http://yoursite.com/2019/08/19/测试文档/</id>
+    <published>2019-08-18T17:50:21.000Z</published>
+    <updated>2019-08-19T17:12:04.776Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这是个测试文档，直接把默认的hello world文章拿来用了。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
