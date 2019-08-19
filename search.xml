@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[寄宿之恋]]></title>
+    <url>%2F2019%2F08%2F19%2F%E5%AF%84%E5%AE%BF%E4%B9%8B%E6%81%8B%2F</url>
+    <content type="text"><![CDATA[蝙蝠蝙蝠蝙蝠蝙蝠 蝙蝠蝙蝠蝙蝠蝙蝠蝙蝠第一篇博客蝙蝠蝙蝠蝙蝠蝙蝠 蝙蝠蝙蝠蝙蝠蝙蝠 目前正在推的galgame是寄宿之恋，第一次接触的ASa Project（颜艺社）的作品，是一部充满搞笑，颜艺，无厘头的轻松纯爱向作品，首先对颜艺黄毛进行攻略…相当欢乐]]></content>
+      <categories>
+        <category>galgame</category>
+        <category>欢乐向</category>
+      </categories>
+      <tags>
+        <tag>galgame</tag>
+        <tag>ASa Project</tag>
+        <tag>颜艺社</tag>
+        <tag>欢乐向</tag>
+        <tag>蝙蝠</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[测试文章hello world]]></title>
+    <url>%2F2019%2F08%2F19%2F%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3%2F</url>
+    <content type="text"><![CDATA[这是个测试文档，直接把默认的hello world文章拿来用了。 Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing 说点中文？what is it? 日本語でいいのか？ テスト～テスト～ Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment 建立博客第二天：添加了RSS订阅功能（反正也不会有用，好像还用不了），设置了头像（谢拉真棒），加入了评论功能和联系方式（同样没人用），这个站的标题就不能改一下吗，还wryyyyyyyy，又不是替身使者，还有全世界的蝙蝠，作者脑子有病吧，对了，还加了个搜索功能]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+</search>
