@@ -2,6 +2,7 @@
 	position: fixed;
 	writing-mode: vertical-rl;
 	bottom: 66px;
+	#bottom: 0px;
 	left: 0px;
 	background-color: #fa0;
 	color: #fff;
@@ -13,7 +14,7 @@
 }
 #waifu {
 	position: fixed;
-	bottom: -1000px;
+	bottom: 1000px#-1000px;
 	left: 0;
 	z-index: 1;
 	line-height: 0;
